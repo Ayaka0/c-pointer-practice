@@ -1,0 +1,14 @@
+﻿  list1-11.c
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(12,13): error C2057: 定数式が必要です。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(12,18): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(12,6): error C2133: 'array1': サイズが不明です。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(13,13): error C2057: 定数式が必要です。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(13,18): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(13,20): error C2057: 定数式が必要です。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(13,25): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(13,25): error C2087: 'array2': 添字がありません。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(13,6): error C2133: 'array2': サイズが不明です。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(38,48): warning C4034: sizeof 演算子がサイズが 0 となったオペランドに適用されました。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(39,48): warning C4034: sizeof 演算子がサイズが 0 となったオペランドに適用されました。
+C:\Users\ayaka\OneDrive\Desktop\list1-11\list1-11\list1-11.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(703,5): error MSB6006: "CL.exe" はコード 2 を伴って終了しました。
