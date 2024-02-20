@@ -1,0 +1,5 @@
+﻿  list2-2.c
+C:\Users\ayaka\OneDrive\Desktop\list2-2\list2-2\list2-2.c(34,9): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+C:\Users\ayaka\OneDrive\Desktop\list2-2\list2-2\list2-2.c(34,9): message : プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\ayaka\OneDrive\Desktop\list2-2\list2-2\list2-2.c(34,9): message : 不足している可変個引数 2 が書式文字列 '%p' に必要です
+  list2-2.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list2-2\x64\Debug\list2-2.exe
