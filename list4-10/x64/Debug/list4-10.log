@@ -1,0 +1,2 @@
+﻿  list4-10.c
+C:\Users\ayaka\OneDrive\Desktop\list4-10\list4-10\list4-10.c(7,9): fatal  error C1083: include ファイルを開けません。'read_line.h':No such file or directory
