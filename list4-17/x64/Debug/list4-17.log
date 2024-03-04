@@ -1,0 +1,5 @@
+﻿  list4-17.c
+C:\Users\ayaka\OneDrive\Desktop\list4-17\list4-17\list4-17.c(12,14): error C2057: 定数式が必要です。
+C:\Users\ayaka\OneDrive\Desktop\list4-17\list4-17\list4-17.c(12,18): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\ayaka\OneDrive\Desktop\list4-17\list4-17\list4-17.c(28,1): error C2036: 'int (*)[0]': サイズが不明です。
+C:\Users\ayaka\OneDrive\Desktop\list4-17\list4-17\list4-17.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
