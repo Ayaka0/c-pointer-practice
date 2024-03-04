@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: 未解決の外部シンボル read_line が関数 main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル free_buffer が関数 main で参照されました
+C:\Users\ayaka\OneDrive\Desktop\list-4-14\x64\Debug\list-4-14.exe : fatal error LNK1120: 2 件の未解決の外部参照
