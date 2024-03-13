@@ -1,0 +1,4 @@
+﻿  list10-1.c
+C:\Users\ayaka\OneDrive\Desktop\list10-1\list10-1\list10-1.c(20,37): warning C4047: '>': 間接参照のレベルが 'int *' と 'int' で異なっています。
+C:\Users\ayaka\OneDrive\Desktop\list10-1\list10-1\list10-1.c(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  list10-1.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list10-1\x64\Debug\list10-1.exe
