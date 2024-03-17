@@ -1,24 +1,40 @@
+
 #include<stdio.h>
 
-void adjust_score(int *n)
+void set999(int* p)
 {
-	if (*n < 0) *n = 0;
-	if (*n > 100) *n = 100;
+	*p = 999;
 }
 
-int main(void) {
+int main(void)
+{
 
-	int score;
-
+	int retry;
 	do {
-		printf("テストの点数：");
-		scanf("%d", &score);
+	int x = 123;
+	int y = 456;
+	int sw;
+	
+	printf("x = %d\n", x);
+	printf("y = %d\n", y);
 
-		adjust_score(&score);
-		printf("点数は%d点です。\n", score);
+	printf("変更するのは[0…x / 1…y] = ");
+	scanf("%d", &sw);
 
-	} while (score < 0 || score > 100);
+	
+		int* p;
+		if (sw == 0)
+			set999(&x);	//pはxを指す
+		else
+			set999(&y); //pはyを指す
+
+		printf("x = %d\n", x);
+		printf("y = %d\n", y);
+
+		printf("もう一度？ [Y : 9 / N : 8]");
+		scanf("%d", &retry);
+	} while (retry == 9);
+	
 
 	return 0;
-
 }
